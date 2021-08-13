@@ -1,3 +1,3 @@
-3 JAva
+# Java
 
 ## Práticas do Curso de Java
