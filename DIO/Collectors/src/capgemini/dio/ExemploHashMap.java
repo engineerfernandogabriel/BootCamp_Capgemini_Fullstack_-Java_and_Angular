@@ -1,4 +1,4 @@
-package com.company;
+package capgemini.dio;
 
 import java.util.HashMap;
 import java.util.Map;

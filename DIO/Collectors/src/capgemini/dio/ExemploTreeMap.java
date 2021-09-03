@@ -1,4 +1,4 @@
-package com.company;
+package capgemini.dio;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -50,7 +50,7 @@ public class ExemploTreeMap {
 
             System.out.println(treeCapitais);
 
-            System.out.println(treeCapitais.size());
+            System.out.println("Tamanho da árvore após a exclusão: " + treeCapitais.size());
             // Retorna o tamanho da árvore
 
     }
