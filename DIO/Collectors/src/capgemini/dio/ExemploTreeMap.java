@@ -4,6 +4,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class ExemploTreeMap {
+
         public static void main(String[] args){
 
             TreeMap<String, String> treeCapitais = new TreeMap<>();

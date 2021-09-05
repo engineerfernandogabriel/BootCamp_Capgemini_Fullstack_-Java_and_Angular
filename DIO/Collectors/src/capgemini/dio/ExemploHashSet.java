@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class ExemploHashSet {
+
     public static void main(String[] args){
         Set<Double> notasAlunos = new HashSet<>();
 

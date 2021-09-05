@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class ExercicioList {
+
     public static void main(String[] args) {
         List<String> nomes = new ArrayList<>(); //Lista criada
 

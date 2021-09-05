@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ExercicioHashMap {
+
     public static void main(String[] args){
 
         Map<String, String> estadosCapitais = new HashMap<>();
@@ -81,7 +82,7 @@ public class ExercicioHashMap {
         // Verifica se tem o estado de Minas Gerais no Map
 
         System.out.println("Tem o estado de Minas Gerais no Map ? " + temEstado2);
-                
+
 
     }
 }
