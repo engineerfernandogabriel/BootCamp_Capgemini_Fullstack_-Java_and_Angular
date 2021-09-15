@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03175329-6863-42d6-9d74-1113a03303e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaCircular.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListaCircular/com/projetolistacircular/ListaCircular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListaCircular/com/projetolistacircular/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListaCircular/com/projetolistacircular/No.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/projetolistacircular/ListaCircular.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/projetolistacircular/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/projetolistacircular/No.java" beforeDir="false" />
-    </list>
+    <list default="true" id="03175329-6863-42d6-9d74-1113a03303e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +81,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.projetolistacircular.Main" />
@@ -135,5 +123,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
