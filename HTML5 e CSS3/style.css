@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+#title{
+  color: white;
+}
+
+.subtitle {
+  color: #fff;
+}
+
+.back_article {
+  background-color: #ccc;
+  padding: 5px;
+}
+
+.list_ {
+  list-style-type: none;
+}
