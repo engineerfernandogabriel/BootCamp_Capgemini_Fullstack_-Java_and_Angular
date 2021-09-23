@@ -2,16 +2,23 @@ body {
   background-color: black;
 }
 
+.rounded-circle{
+  border-radius: 200px 200px;
+}
+
 #title{
   color: white;
+  font-family: "verdana";
 }
 
 .subtitle {
   color: #fff;
+  font-family: "verdana";
+  font-style: italic;
 }
 
 .back_article {
-  background-color: #ccc;
+  color: white;
   padding: 5px;
 }
 
